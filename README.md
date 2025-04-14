@@ -1,11 +1,20 @@
 <h1 align="center">Hey there 👋, I'm Vsevolod</h1>
-<p align="center">🧑‍💻 Full Stack Developer • OSS Enthusiast • Tech Explorer</p>
+<p align="center">🧑‍💻 Full Stack Developer • Tech Explorer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Crafting+clean+code+daily...;Linux+lover+%7C+Backend+enthusiast;Always+learning+%F0%9F%93%9A;Dev+life+%E2%9C%A8" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%2C+%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF%D0%B0+%D0%BD%D0%B5%D1%82..." alt="Typing SVG" /></a>
 </p>
 
 ---
+
+### 📬 Contact Me
+
+<p align="center">
+  <a href="https://t.me/masik_netpeak">
+    <img src="https://img.shields.io/badge/Telegram-@masik_netpeak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</p>
+
 
 ### 🔧 Tech Stack
 
@@ -33,12 +42,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VsevolodKrasovskyi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VsevolodKrasovskyi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VsevolodKrasovskyi&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VsevolodKrasovskyi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
