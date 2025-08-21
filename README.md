@@ -7,7 +7,7 @@
   <a href="https://t.me/masik_netpeak">
     <img src="https://img.shields.io/badge/Telegram-@masik_netpeak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/vsevolod-krasovskyi-887885267/">
+  <a href="https://www.linkedin.com/in/vsevolod-krasovskyi/">
     <img src="https://img.shields.io/badge/LinkedIn-Vsevolod%20Krasovskyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
